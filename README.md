@@ -84,6 +84,11 @@ We designed a dashboard with **three sections**:
 ---
 
 ## 📸 Screenshots
+![Dashboard Overview](https://github.com/Danieljospin1/BigDataCapstoneProject/blob/22bd63b53e2aa4ee97ebdae3e9e3fb8bece11a4d/Screenshot%202025-08-03%20141033.png)
+![screenshot](https://github.com/Danieljospin1/BigDataCapstoneProject/blob/22bd63b53e2aa4ee97ebdae3e9e3fb8bece11a4d/Screenshot%202025-08-03%20141834.png)
+![screenshot](https://github.com/Danieljospin1/BigDataCapstoneProject/blob/22bd63b53e2aa4ee97ebdae3e9e3fb8bece11a4d/Screenshot%202025-08-03%20141908.png)
+![screenshot](https://github.com/Danieljospin1/BigDataCapstoneProject/blob/22bd63b53e2aa4ee97ebdae3e9e3fb8bece11a4d/Screenshot%202025-08-03%20141939.png)
+![screenshot](https://github.com/Danieljospin1/BigDataCapstoneProject/blob/22bd63b53e2aa4ee97ebdae3e9e3fb8bece11a4d/Screenshot%202025-08-03%20142013.png)
+![screenshot](https://github.com/Danieljospin1/BigDataCapstoneProject/blob/22bd63b53e2aa4ee97ebdae3e9e3fb8bece11a4d/Screenshot%202025-08-03%20142109.png)
 
-> *(Insert Power BI dashboard screenshots here)*
 
