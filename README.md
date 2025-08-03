@@ -1,10 +1,13 @@
-# 🎓 Predicting Academic Outcomes and Risk Patterns in Students
+## Names & Id: BISUBIZO Daniel Jospin 26695
+
+## Project Name
+#  Predicting Academic Outcomes and Risk Patterns in Students
 
 > A machine learning and analytics project for identifying academic performance levels based on demographic and behavioral factors — complete with modeling, insights, and Power BI dashboarding.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This capstone project for **Big Data Analytics** focuses on predicting student academic outcomes and identifying risk patterns using key attributes such as gender, race/ethnicity, parental education level, lunch type, and test preparation status.
 
@@ -12,7 +15,7 @@ We explore the dataset through deep **data cleaning, pattern analysis, classific
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source**: Public education performance dataset (1,000 students)
 - **Features**:
@@ -42,7 +45,7 @@ Here are some of the **key insights** from the dataset:
 
 ---
 
-## 🤖 Model Training
+## Model Training
 
 - **Model**: Classification (Random Forest / Decision Tree)
 - **Target**: `Performance_Level` (`Low`, `Medium`, `High`)
