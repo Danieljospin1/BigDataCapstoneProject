@@ -66,16 +66,16 @@ Here are some of the **key insights** from the dataset:
 
 We designed a dashboard with **three sections**:
 
-### 1️⃣ **Demographic Performance Analysis**
+### 1 **Demographic Performance Analysis**
 - Average subject scores by gender
 - Average subject scores by race/ethnicity
 
-### 2️⃣ **Parental & Behavioral Influence**
+### 2 **Parental & Behavioral Influence**
 - Performance level by parental education
 - Performance level by test prep status
 - Lunch type vs average score
 
-### 3️⃣ **Overall Trends**
+### 3 **Overall Trends**
 - Average subject score vs performance level
 - Total number of students per performance group
 - KPI Cards for:
@@ -86,7 +86,7 @@ We designed a dashboard with **three sections**:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 ![Dashboard Overview](https://github.com/Danieljospin1/BigDataCapstoneProject/blob/22bd63b53e2aa4ee97ebdae3e9e3fb8bece11a4d/Screenshot%202025-08-03%20141033.png)
 ![screenshot](https://github.com/Danieljospin1/BigDataCapstoneProject/blob/22bd63b53e2aa4ee97ebdae3e9e3fb8bece11a4d/Screenshot%202025-08-03%20141834.png)
 ![screenshot](https://github.com/Danieljospin1/BigDataCapstoneProject/blob/22bd63b53e2aa4ee97ebdae3e9e3fb8bece11a4d/Screenshot%202025-08-03%20141908.png)
