@@ -4,7 +4,7 @@
 #  Predicting Academic Outcomes and Risk Patterns in Students
 
 > A machine learning and analytics project for identifying academic performance levels based on demographic and behavioral factors — complete with modeling, insights, and Power BI dashboarding.
-
+dataset link: ![Dataset link](https://www.opendatabay.com/data/science-research/2e7dd031-543d-4ffa-99c4-046097c36c0d)
 ---
 
 ## Project Overview
